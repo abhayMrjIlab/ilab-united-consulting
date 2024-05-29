@@ -1,4 +1,5 @@
-[
+{
+   "company": [
     {   
         "id": 0,
         "name": "John Smith",
@@ -44,4 +45,4 @@
         "website": "website.com",
         "type": "goverment"
     }
-]
+]}
