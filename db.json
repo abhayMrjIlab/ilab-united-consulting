@@ -1,0 +1,47 @@
+[
+    {   
+        "id": 0,
+        "name": "John Smith",
+        "address": "Earth, Earth",
+        "phoneNumber": "999999999",
+        "email": "example@example.com",
+        "website": "website.com",
+        "type": "goverment"
+    },
+    {   
+        "id": 1,
+        "name": "Dave Smith",
+        "address": "Earth, Earth",
+        "phoneNumber": "999999999",
+        "email": "example@example.com",
+        "website": "website.com",
+        "type": "non-goverment"
+    },
+    {   
+        "id": 2,
+        "name": "Thor Smith",
+        "address": "Earth, Earth",
+        "phoneNumber": "999999999",
+        "email": "example@example.com",
+        "website": "website.com",
+        "type": "goverment"
+    },
+    {   
+        "id": 3,
+        "name": "Harry Smith",
+        "address": "Earth, Earth",
+        "phoneNumber": "999999999",
+        "email": "example@example.com",
+        "website": "website.com",
+        "type": "non-goverment"
+    },
+     {   
+        "id": 4,
+        "name": "Aurther Smith",
+        "address": "Earth, Earth",
+        "phoneNumber": "999999999",
+        "email": "example@example.com",
+        "website": "website.com",
+        "type": "goverment"
+    }
+]
